@@ -1,5 +1,5 @@
 # Project-Basta
-An algorithm that utilizes the Airtable API to match Basta Fellows to New Job Positions
+An algorithm that utilizes the Airtable API to match Basta Fellows to new job positions
 
 Expected Project Duration
 
