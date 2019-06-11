@@ -11,9 +11,9 @@ Week 1
 -Become familiar with Airtable API
 -Draft Algorithm in pseudocode for revisions
 
-Week 2
+Week 2-3
 -First iteration of algorithm is made
 -Test in conjucntion with monday call to see how results compare to manual searching
 
-Week 3
+Week 4
 -Revision of any errors/oversights
