@@ -1,5 +1,8 @@
 # Project-Basta
-An algorithm that utilizes the Airtable API to match Basta Fellows to new job positions
+An algorithm that utilizes the Python Airtable API to match Basta Fellows to new job positions
+
+Airtable Python Wrapper used:
+https://github.com/gtalarico/airtable-python-wrapper
 
 Expected Project Duration
 
